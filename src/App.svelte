@@ -1,5 +1,5 @@
 <script>
-	let name = 'world';
+	let name = 'ahmad raza khan';
 </script>
 
 <h1>Hello {name}!</h1>
